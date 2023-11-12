@@ -5,7 +5,7 @@ import s2 from '../assets/s2.png'
 import s3 from '../assets/s3.png'
 
 
-export default function(){
+export default function Services(){
 
     return (
         <>
