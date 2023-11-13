@@ -10,6 +10,9 @@ npm run dev
 yarn dev
 ```
 
+![PizzaliciousHub com - Google Chrome 12-11-2023 22_31_22](https://github.com/aashi54/PizzaliciousHub/assets/86195048/91a584ae-108e-4a01-9a33-689c1cf56017)
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
